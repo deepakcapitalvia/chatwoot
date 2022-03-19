@@ -14,7 +14,7 @@
   },
   "CONFIGURE_URL": {
     "ENTER_URL": "URL Di Installazione",
-    "DESCRIPTION": "If you are using a self-hosted Chatwoot installation, input your server URL. Otherwise, use app.chatwoot.com.",
+    "DESCRIPTION": "If you are using a self-hosted Chatwoot installation, input your server URL. Otherwise, use onechat.is.",
     "URL_ERROR": "Inserisci un URL valido",
     "CONNECT": "Connetti",
     "CHANGE_LANGUAGE": "Cambia lingua",

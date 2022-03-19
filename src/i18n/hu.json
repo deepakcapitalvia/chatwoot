@@ -14,7 +14,7 @@
   },
   "CONFIGURE_URL": {
     "ENTER_URL": "Installációs URL",
-    "DESCRIPTION": "If you are using a self-hosted Chatwoot installation, input your server URL. Otherwise, use app.chatwoot.com.",
+    "DESCRIPTION": "If you are using a self-hosted Chatwoot installation, input your server URL. Otherwise, use onechat.is.",
     "URL_ERROR": "Kérjük helyes URL-t adj meg",
     "CONNECT": "Kapcsolódás",
     "CHANGE_LANGUAGE": "Nyelvválasztás",

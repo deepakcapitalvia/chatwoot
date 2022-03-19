@@ -14,7 +14,7 @@
   },
   "CONFIGURE_URL": {
     "ENTER_URL": "Installation URL",
-    "DESCRIPTION": "If you are using a self-hosted Chatwoot installation, input your server URL. Otherwise, use app.chatwoot.com.",
+    "DESCRIPTION": "If you are using a self-hosted Chatwoot installation, input your server URL. Otherwise, use onechat.is.",
     "URL_ERROR": "சரியான URL ஐ உள்ளிடவும்",
     "CONNECT": "Connect",
     "CHANGE_LANGUAGE": "மொழியை மாற்றவும்",
